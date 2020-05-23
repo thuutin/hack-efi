@@ -246,7 +246,9 @@
 </key>
 			<dict>
 				<key>AAPL,ig-platform-id	</key>
-				<data>AwCYPg==</data>
+				<data>BwCbPg==</data>
+				<key>framebuffer-patch-enable	</key>
+				<data>AQAAAA==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
