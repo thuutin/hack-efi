@@ -246,7 +246,7 @@
 </key>
 			<dict>
 				<key>AAPL,ig-platform-id	</key>
-				<data>AwCSPg==</data>
+				<data>AwCRPg==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
@@ -881,7 +881,7 @@
 			<key>RequestBootVarFallback</key>
 			<true/>
 			<key>RequestBootVarRouting</key>
-			<true/>
+			<false/>
 			<key>UnblockFsConnect</key>
 			<false/>
 		</dict>
