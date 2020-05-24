@@ -305,11 +305,6 @@
 				<key>alc-layout-id</key>
 				<string>03000000</string>
 			</dict>
-			<key>PciRoot(0x0)/Pci(0x14,0x0)</key>
-			<dict>
-				<key>acpi-wake-type</key>
-				<data>AQ==</data>
-			</dict>
 		</dict>
 		<key>Block</key>
 		<dict/>
